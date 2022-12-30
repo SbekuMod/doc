@@ -1,8 +1,6 @@
 # Lo SOWCT (Sbeku Outer Wilds Content Team) ti da il benvenuto!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="outer-wild-ventures-bw.png">
-  <source media="(prefers-color-scheme: light)" srcset="outer-wild-ventures.png">
   <img align="left" width="30%" alt="Outer Wild Ventures" src="outer-wild-ventures.png">
 </picture>
 
